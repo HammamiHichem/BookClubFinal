@@ -1,0 +1,137 @@
+@{
+    ViewData["Title"] = "Register";
+    Layout = "_Layout"; // Spécifie le nom du layout à utiliser (par défaut, il cherche dans /Views/Shared/)
+}
+
+<style>
+    .label-white {
+        color: white;
+    }
+
+    .book-section {
+        background-color: #343a40; /* Couleur de fond */
+        padding: 50px 0; /* Espacement intérieur */
+        text-align: center; /* Centrage du contenu */
+        color: white; /* Couleur du texte */
+        margin-top: 30px; /* Espacement par rapport à la section précédente */
+    }
+
+    .book-container {
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        margin-top: 30px;
+    }
+
+    .book-item {
+        width: 200px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .book-item img {
+        max-width: 100%;
+        border-radius: 5px;
+    }
+
+    .book-item h4 {
+        margin-top: 10px;
+        font-size: 18px;
+    }
+
+    /* Ajout de marges pour les sections de formulaire */
+    .form-container {
+        margin-top: 30px; /* Espacement entre les sections */
+    }
+
+     .book-item a {
+        color: white; /* Couleur du texte des liens */
+        text-decoration: none; /* Supprime le soulignement des liens */
+    }
+</style>
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-6">
+            <!-- Left-aligned welcome message -->
+            <h2 class="text-white">Welcome, @ViewBag.loggedInUser.FirstName</h2>
+        </div>
+    </div>
+    <div class="book-section">
+    <div class="container">
+        <h2>Discover Some Featured Books</h2>
+        <div class="book-container">
+            <div class="book-item">
+                <a href="/books/details/5"> 
+                    <img src="images/9791028522001.jpg" alt="Book 1">
+                    <h4 class="text-white">Dis bonjour sale pute</h4>
+                </a>
+            </div>
+            <div class="book-item">
+                <a href="/books/details/6"> 
+                    <img src="images/9791028522322.jpg" alt="Book 2">
+                    <h4 class="text-white">Ma Crohn de vie</h4>
+                </a>
+            </div>
+            <div class="book-item">
+                <a href="/books/details/7"> 
+                    <img src="images/9791028530426.jpg" alt="Book 3">
+                    <h4 class="text-white">Mes secrets de beauté</h4>
+                </a>
+            </div>
+            <div class="book-item">
+                <a href="/books/details/8"> 
+                    <img src="images/9791028531225.jpg" alt="Book 4">
+                    <h4 class="text-white">Moi et Elles</h4>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-12">
+            <!-- Titre -->
+            <h2 class="text-white">All Books</h2>
+
+            <!-- Boucle sur les livres -->
+            @foreach (var book in Model)
+            {
+                <div class="card mb-3">
+                    <div class="card-body">
+                        <!-- Titre du livre avec lien dynamique -->
+                        <h3 class="card-title">
+                            <a href="@(book.CreatorId == ViewBag.LoggedInUser?.UserId ? "/books/view/" + book.BookId : "/books/details/" + book.BookId)">
+                                @book.Title
+                            </a>
+                        </h3>
+                        <!-- Informations sur le créateur du livre -->
+                        <p class="card-text">
+                            Added by @(book.Creator != null ? $"{book.Creator.FirstName} {book.Creator.LastName}" : "Creator")
+                        </p>
+                        <!-- Actions pour ajouter ou retirer des favoris -->
+                        <div class="card-footer">
+                            @if (ViewBag.UserFavorites.Contains(book))
+                            {
+                                <form method="post" action="/books/removefromfavorites/@book.BookId" style="display:inline;">
+                                    <button type="submit" class="btn btn-sm btn-danger">Remove from Favorites</button>
+                                </form>
+                            }
+                            else
+                            {
+                                <form method="post" action="/books/addtofavorites/@book.BookId" style="display:inline;">
+                                    <button type="submit" class="btn btn-sm btn-success">Add to Favorites</button>
+                                </form>
+                            }
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>

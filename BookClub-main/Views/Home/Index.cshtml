@@ -1,0 +1,119 @@
+﻿@model BookClubProject.Models.User
+
+@{
+    ViewData["Title"] = "Register";
+    Layout = "_Layout"; // Spécifie le nom du layout à utiliser (par défaut, il cherche dans /Views/Shared/)
+}
+
+<!-- Ajout d'une marge en haut pour espacer de la navbar -->
+<style>
+    .content-section {
+        margin-top: 50px; /* Ajustez la valeur selon votre besoin d'espace */
+    }
+</style>
+<br><br>
+<!-- Carousel Section -->
+<div id="myCarousel1" class="carousel slide" data-ride="carousel">
+    <div class="container">
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel1" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel1" data-slide-to="1"></li>
+            <li data-target="#myCarousel1" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <a href="https://www.editionsleduc.com/produit/3602/9782385293437/le-s-vrai-es-amour-s">
+                    <img src="images/banner4.png" class="d-block w-100" alt="First slide">
+                </a>
+                <div class="carousel-caption d-flex justify-content-center align-items-center">
+                    <!-- Caption content here if needed -->
+                </div>
+            </div>
+            <div class="carousel-item">
+                <a href="https://www.editionsleduc.com/produit/3544/9791028530907/mes-rituels-naturo">
+                    <img src="images/banner2.png" class="d-block w-100" alt="Second slide">
+                </a>
+                <div class="carousel-caption d-flex justify-content-center align-items-center">
+                    <!-- Caption content here if needed -->
+                </div>
+            </div>
+            <div class="carousel-item">
+                <a href="https://www.editionsleduc.com/produit/3541/9782385291488/la-premiere-nee">
+                    <img src="images/banner3.png" class="d-block w-100" alt="Third slide">
+                </a>
+                <div class="carousel-caption d-flex justify-content-center align-items-center">
+                    <!-- Caption content here if needed -->
+                </div>
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel1" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#myCarousel1" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+</div>
+
+<!-- Formulaire d'inscription et de connexion avec espace -->
+<div class="container content-section">
+    <div class="row justify-content-around form-container">
+        <!-- Formulaire d'inscription -->
+        <div class="col-md-6 form-container">
+            <h2 class="text-white">Registration</h2>
+            <form action="/user/register" method="post">
+                <div class="form-group">
+                    <label for="FirstName" class="label-white">First Name</label>
+                    <input id="FirstName" name="FirstName" class="form-control" />
+                    @Html.ValidationMessageFor(model => model.FirstName, "", new { @class = "text-danger" })
+                </div>
+                <div class="form-group">
+                    <label for="LastName" class="label-white">Last Name</label>
+                    <input id="LastName" name="LastName" class="form-control" />
+                    @Html.ValidationMessageFor(model => model.LastName, "", new { @class = "text-danger" })
+                </div>
+                <div class="form-group">
+                    <label for="Email" class="label-white">Email</label>
+                    <input id="Email" name="Email" type="email" class="form-control" />
+                    @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                </div>
+                <div class="form-group">
+                    <label for="Password" class="label-white">Password</label>
+                    <input id="Password" name="Password" type="password" class="form-control" />
+                    @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                </div>
+                <div class="form-group">
+                    <label for="PasswordConfirm" class="label-white">Confirm Password</label>
+                    <input id="PasswordConfirm" name="PasswordConfirm" type="password" class="form-control" />
+                    @Html.ValidationMessageFor(model => model.PasswordConfirm, "", new { @class = "text-danger" })
+                </div>
+
+                <div class="form-group d-grid gap-2">
+                    <input type="submit" value="Register" class="btn btn-dark" />
+                </div>
+            </form>
+        </div>
+
+        <!-- Formulaire de connexion -->
+        <div class="col-md-6 form-container">
+            <h2 class="text-white">Login</h2>
+            <form action="/user/login" method="post">
+                <div class="form-group">
+                    <label for="LogEmail" class="label-white">Email</label>
+                    <input id="LogEmail" name="LogEmail" class="form-control" value="hichemhammami@gmail.com">
+                    <span class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="LogPassword" class="label-white">Password</label>
+                    <input id="LogPassword" name="LogPassword" type="password" class="form-control" value="00000000">
+                    <span class="text-danger"></span>
+                </div>
+                <div class="form-group d-grid gap-2">
+                    <input type="submit" value="Login" class="btn btn-dark" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

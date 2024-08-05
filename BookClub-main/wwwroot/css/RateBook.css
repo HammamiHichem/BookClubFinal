@@ -1,0 +1,125 @@
+/*Raiting CSS*/
+.rating {
+    display: inline-block;
+     position: relative;
+     height: 50px;
+     line-height: 30px;
+     font-size: 40px;
+   }
+   
+   .rating label {
+     position: absolute;
+     top: 0;
+     left: 0;
+     height: 100%;
+     cursor: pointer;
+   }
+   
+   .rating label:last-child {
+     position: static;
+   }
+   
+   .rating label:nth-child(1) {
+     z-index: 5;
+   }
+   
+   .rating label:nth-child(2) {
+     z-index: 4;
+   }
+   
+   .rating label:nth-child(3) {
+     z-index: 3;
+   }
+   
+   .rating label:nth-child(4) {
+     z-index: 2;
+   }
+   
+   .rating label:nth-child(5) {
+     z-index: 1;
+   }
+   
+   .rating label input {
+     position: absolute;
+     top: 0;
+     left: 0;
+     opacity: 0;
+   }
+   
+   .rating label .icon {
+     float: left;
+     color: transparent;
+   }
+   
+   .rating label:last-child .icon {
+     color: #dfdada;
+   }
+   
+   .rating:not(:hover) label input:checked ~ .icon,
+   .rating:hover label:hover input ~ .icon, .icon-bleu {
+     color: #ff4157;
+   }
+   
+   .rating label input:focus:not(:checked) ~ .icon:last-child {
+     color: #a59c9c;
+     text-shadow: 0 0 5px #ff4157;
+   }
+   
+   
+   
+   .list-group-item+.list-group-item {
+     border-top-width: 1px; 
+   }
+   
+   .average-rating {
+     text-align: center;
+     margin-bottom: 10px;
+   }
+   
+   .average-rating p {
+     font-size: 18px;
+     font-weight: bold;
+     color: #333;
+   }
+ 
+   .my-submit-button {
+     background-color: #ff4157; /* Couleur de fond */
+     color: white; /* Couleur du texte */
+     padding: 12px 20px; /* Espacement interne */
+     border: none; /* Pas de bordure */
+     border-radius: 5px; /* Coins arrondis */
+     cursor: pointer; /* Curseur de souris au survol */
+     transition: background-color 0.3s; /* Animation de transition */
+ }
+ 
+ .my-submit-button:hover {
+     background-color: #e36d13; /* Couleur de fond au survol */
+ }
+ 
+ 
+ 
+ .progress-bar {
+     display: -ms-flexbox;
+     display: flex;
+     -ms-flex-direction: column;
+     flex-direction: column;
+     -ms-flex-pack: center;
+     justify-content: center;
+     overflow: hidden;
+     color: #fff;
+     text-align: center;
+     white-space: nowrap;
+     background-color: #ff4157;
+     transition: width .6s ease;
+ }
+ 
+ /* Style du trait HR */
+hr {
+  border: none; /* Supprimer la bordure par défaut */
+  height: 10px; /* Hauteur du trait */
+  background-color: #ff4157; /* Couleur du trait */
+  margin: 20px 0; /* Marge en haut et en bas du trait */
+}
+
+ 
+ 

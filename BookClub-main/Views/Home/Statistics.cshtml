@@ -1,0 +1,78 @@
+@{
+    ViewData["Title"] = "Register";
+    Layout = "_Layout"; // Spécifie le nom du layout à utiliser (par défaut, il cherche dans /Views/Shared/)
+}
+
+<div class="container mt-4">
+
+    <!-- Row pour aligner les éléments -->
+    <div class="row">
+        <!-- Colonne pour afficher le graphique en camembert -->
+        <div class="col-lg-6 offset-lg-3">
+            <div class="mb-4 text-center">
+                <canvas id="pieChart" width="400" height="400"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- Nouvelle ligne pour les statistiques -->
+    <div class="row">
+        <div class="col-lg-6 offset-lg-3 text-center">
+            <div class="text-white"> <!-- Classe pour le texte en blanc -->
+                <p>Number of users in the book club: @ViewBag.UserCount</p>
+                <p>Total number of books: @ViewBag.BookCount</p>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<!-- Bibliothèques JavaScript requises -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var ctx = document.getElementById('pieChart').getContext('2d');
+
+        // Récupération des données depuis ViewBag et conversion en nombre entier
+        var userCount = parseInt('@ViewBag.UserCount');
+        var bookCount = parseInt('@ViewBag.BookCount');
+
+        var myPieChart = new Chart(ctx, {
+            type: 'pie',
+            data: {
+                labels: ['Users', 'Books'],
+                datasets: [{
+                    label: 'Statistics',
+                    data: [userCount, bookCount],
+                    backgroundColor: [
+                        'rgba(255, 99, 132, 0.2)',
+                        'rgba(54, 162, 235, 0.2)'
+                    ],
+                    borderColor: [
+                        'rgba(255, 99, 132, 1)',
+                        'rgba(54, 162, 235, 1)'
+                    ],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                plugins: {
+                    subtitle: {
+                        display: true,
+                        text: 'Statistics of my Book Club', // Texte du sous-titre
+                        font: {
+                            size: 16, // Taille de la police du sous-titre
+                            weight: 'bold' // Poids de la police du sous-titre
+                        }
+                    }
+                },
+                animation: {
+                    duration: 2000, // Durée de l'animation en millisecondes
+                    easing: 'easeInOutQuart' // Fonction d'interpolation pour l'animation
+                }
+            }
+        });
+    });
+</script>

@@ -1,0 +1,240 @@
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\obj\Debug\net8.0\BookClubProject.csproj.AssemblyReference.cache
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\obj\Debug\net8.0\BookClubProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\obj\Debug\net8.0\BookClubProject.AssemblyInfoInputs.cache
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\obj\Debug\net8.0\BookClubProject.AssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\obj\Debug\net8.0\BookClubProject.csproj.CoreCompileInputs.cache
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\obj\Debug\net8.0\BookClubProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\obj\Debug\net8.0\BookClubProject.RazorAssemblyInfo.cache
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\obj\Debug\net8.0\BookClubProject.RazorAssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\obj\Debug\net8.0\BookClubProject.sourcelink.json
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\bin\Debug\net8.0\appsettings.json
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\bin\Debug\net8.0\BookClubProject.staticwebassets.runtime.json
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\bin\Debug\net8.0\BookClubProject.exe
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\bin\Debug\net8.0\BookClubProject.deps.json
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\bin\Debug\net8.0\BookClubProject.runtimeconfig.json
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\bin\Debug\net8.0\BookClubProject.dll
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\bin\Debug\net8.0\BookClubProject.pdb
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\obj\Debug\net8.0\staticwebassets\msbuild.BookClubProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\obj\Debug\net8.0\staticwebassets\msbuild.build.BookClubProject.props
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookClubProject.props
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookClubProject.props
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\obj\Debug\net8.0\scopedcss\bundle\BookClubProject.styles.css
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\obj\Debug\net8.0\scopedcss\projectbundle\BookClubProject.bundle.scp.css
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\obj\Debug\net8.0\BookClub.D73D27CF.Up2Date
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\obj\Debug\net8.0\BookClubProject.dll
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\obj\Debug\net8.0\refint\BookClubProject.dll
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\obj\Debug\net8.0\BookClubProject.pdb
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\obj\Debug\net8.0\BookClubProject.genruntimeconfig.cache
+C:\Users\Hichem Hammami\Desktop\Project(Book Club)\BookClubProject\obj\Debug\net8.0\ref\BookClubProject.dll
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\bin\Debug\net8.0\appsettings.json
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\bin\Debug\net8.0\BookClubProject.staticwebassets.runtime.json
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\bin\Debug\net8.0\BookClubProject.exe
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\bin\Debug\net8.0\BookClubProject.deps.json
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\bin\Debug\net8.0\BookClubProject.runtimeconfig.json
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\bin\Debug\net8.0\BookClubProject.dll
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\bin\Debug\net8.0\BookClubProject.pdb
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\obj\Debug\net8.0\BookClubProject.csproj.AssemblyReference.cache
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\obj\Debug\net8.0\BookClubProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\obj\Debug\net8.0\BookClubProject.AssemblyInfoInputs.cache
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\obj\Debug\net8.0\BookClubProject.AssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\obj\Debug\net8.0\BookClubProject.csproj.CoreCompileInputs.cache
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\obj\Debug\net8.0\BookClubProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\obj\Debug\net8.0\BookClubProject.RazorAssemblyInfo.cache
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\obj\Debug\net8.0\BookClubProject.RazorAssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\obj\Debug\net8.0\BookClubProject.sourcelink.json
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\obj\Debug\net8.0\staticwebassets\msbuild.BookClubProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\obj\Debug\net8.0\staticwebassets\msbuild.build.BookClubProject.props
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookClubProject.props
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookClubProject.props
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\obj\Debug\net8.0\scopedcss\bundle\BookClubProject.styles.css
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\obj\Debug\net8.0\scopedcss\projectbundle\BookClubProject.bundle.scp.css
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\obj\Debug\net8.0\BookClub.D73D27CF.Up2Date
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\obj\Debug\net8.0\BookClubProject.dll
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\obj\Debug\net8.0\refint\BookClubProject.dll
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\obj\Debug\net8.0\BookClubProject.pdb
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\obj\Debug\net8.0\BookClubProject.genruntimeconfig.cache
+C:\Users\Hichem Hammami\Desktop\Nouveau dossier (5)\BookClubProject\BookClubProject\obj\Debug\net8.0\ref\BookClubProject.dll
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\bin\Debug\net8.0\appsettings.json
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\bin\Debug\net8.0\BookClubProject.staticwebassets.runtime.json
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\bin\Debug\net8.0\BookClubProject.exe
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\bin\Debug\net8.0\BookClubProject.deps.json
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\bin\Debug\net8.0\BookClubProject.runtimeconfig.json
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\bin\Debug\net8.0\BookClubProject.dll
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\bin\Debug\net8.0\BookClubProject.pdb
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\obj\Debug\net8.0\BookClubProject.csproj.AssemblyReference.cache
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\obj\Debug\net8.0\BookClubProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\obj\Debug\net8.0\BookClubProject.AssemblyInfoInputs.cache
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\obj\Debug\net8.0\BookClubProject.AssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\obj\Debug\net8.0\BookClubProject.csproj.CoreCompileInputs.cache
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\obj\Debug\net8.0\BookClubProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\obj\Debug\net8.0\BookClubProject.RazorAssemblyInfo.cache
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\obj\Debug\net8.0\BookClubProject.RazorAssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\obj\Debug\net8.0\BookClubProject.sourcelink.json
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\obj\Debug\net8.0\staticwebassets\msbuild.BookClubProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\obj\Debug\net8.0\staticwebassets\msbuild.build.BookClubProject.props
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookClubProject.props
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookClubProject.props
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\obj\Debug\net8.0\scopedcss\bundle\BookClubProject.styles.css
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\obj\Debug\net8.0\scopedcss\projectbundle\BookClubProject.bundle.scp.css
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\obj\Debug\net8.0\BookClub.D73D27CF.Up2Date
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\obj\Debug\net8.0\BookClubProject.dll
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\obj\Debug\net8.0\refint\BookClubProject.dll
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\obj\Debug\net8.0\BookClubProject.pdb
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\obj\Debug\net8.0\BookClubProject.genruntimeconfig.cache
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\BookClubProject\obj\Debug\net8.0\ref\BookClubProject.dll
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\bin\Debug\net8.0\appsettings.json
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\bin\Debug\net8.0\BookClubProject.staticwebassets.runtime.json
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\bin\Debug\net8.0\BookClubProject.exe
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\bin\Debug\net8.0\BookClubProject.deps.json
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\bin\Debug\net8.0\BookClubProject.runtimeconfig.json
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\bin\Debug\net8.0\BookClubProject.dll
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\bin\Debug\net8.0\BookClubProject.pdb
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\obj\Debug\net8.0\BookClubProject.csproj.AssemblyReference.cache
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\obj\Debug\net8.0\BookClubProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\obj\Debug\net8.0\BookClubProject.AssemblyInfoInputs.cache
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\obj\Debug\net8.0\BookClubProject.AssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\obj\Debug\net8.0\BookClubProject.csproj.CoreCompileInputs.cache
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\obj\Debug\net8.0\BookClubProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\obj\Debug\net8.0\BookClubProject.RazorAssemblyInfo.cache
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\obj\Debug\net8.0\BookClubProject.RazorAssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\obj\Debug\net8.0\BookClubProject.sourcelink.json
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\obj\Debug\net8.0\staticwebassets\msbuild.BookClubProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\obj\Debug\net8.0\staticwebassets\msbuild.build.BookClubProject.props
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookClubProject.props
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookClubProject.props
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\obj\Debug\net8.0\scopedcss\bundle\BookClubProject.styles.css
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\obj\Debug\net8.0\scopedcss\projectbundle\BookClubProject.bundle.scp.css
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\obj\Debug\net8.0\BookClub.D73D27CF.Up2Date
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\obj\Debug\net8.0\BookClubProject.dll
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\obj\Debug\net8.0\refint\BookClubProject.dll
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\obj\Debug\net8.0\BookClubProject.pdb
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\obj\Debug\net8.0\BookClubProject.genruntimeconfig.cache
+C:\Users\Hichem Hammami\Desktop\Final_Book-Club-Project\BookClubProject\obj\Debug\net8.0\ref\BookClubProject.dll
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\bin\Debug\net8.0\appsettings.json
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\bin\Debug\net8.0\BookClubProject.staticwebassets.runtime.json
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\bin\Debug\net8.0\BookClubProject.exe
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\bin\Debug\net8.0\BookClubProject.deps.json
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\bin\Debug\net8.0\BookClubProject.runtimeconfig.json
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\bin\Debug\net8.0\BookClubProject.dll
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\bin\Debug\net8.0\BookClubProject.pdb
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\obj\Debug\net8.0\BookClubProject.csproj.AssemblyReference.cache
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\obj\Debug\net8.0\BookClubProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\obj\Debug\net8.0\BookClubProject.AssemblyInfoInputs.cache
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\obj\Debug\net8.0\BookClubProject.AssemblyInfo.cs
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\obj\Debug\net8.0\BookClubProject.csproj.CoreCompileInputs.cache
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\obj\Debug\net8.0\BookClubProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\obj\Debug\net8.0\BookClubProject.RazorAssemblyInfo.cache
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\obj\Debug\net8.0\BookClubProject.RazorAssemblyInfo.cs
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\obj\Debug\net8.0\BookClubProject.sourcelink.json
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\obj\Debug\net8.0\staticwebassets\msbuild.BookClubProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\obj\Debug\net8.0\staticwebassets\msbuild.build.BookClubProject.props
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookClubProject.props
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookClubProject.props
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\obj\Debug\net8.0\scopedcss\bundle\BookClubProject.styles.css
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\obj\Debug\net8.0\scopedcss\projectbundle\BookClubProject.bundle.scp.css
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\obj\Debug\net8.0\BookClub.D73D27CF.Up2Date
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\obj\Debug\net8.0\BookClubProject.dll
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\obj\Debug\net8.0\refint\BookClubProject.dll
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\obj\Debug\net8.0\BookClubProject.pdb
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\obj\Debug\net8.0\BookClubProject.genruntimeconfig.cache
+C:\Users\Hichem Hammami\Downloads\Nouveau dossier (215)\BookClub-main\BookClub-main\obj\Debug\net8.0\ref\BookClubProject.dll
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\bin\Debug\net8.0\appsettings.json
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\bin\Debug\net8.0\BookClubProject.staticwebassets.runtime.json
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\bin\Debug\net8.0\BookClubProject.exe
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\bin\Debug\net8.0\BookClubProject.deps.json
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\bin\Debug\net8.0\BookClubProject.runtimeconfig.json
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\bin\Debug\net8.0\BookClubProject.dll
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\bin\Debug\net8.0\BookClubProject.pdb
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\obj\Debug\net8.0\BookClubProject.csproj.AssemblyReference.cache
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\obj\Debug\net8.0\BookClubProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\obj\Debug\net8.0\BookClubProject.AssemblyInfoInputs.cache
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\obj\Debug\net8.0\BookClubProject.AssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\obj\Debug\net8.0\BookClubProject.csproj.CoreCompileInputs.cache
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\obj\Debug\net8.0\BookClubProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\obj\Debug\net8.0\BookClubProject.RazorAssemblyInfo.cache
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\obj\Debug\net8.0\BookClubProject.RazorAssemblyInfo.cs
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\obj\Debug\net8.0\BookClubProject.sourcelink.json
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\obj\Debug\net8.0\staticwebassets\msbuild.BookClubProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\obj\Debug\net8.0\staticwebassets\msbuild.build.BookClubProject.props
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookClubProject.props
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookClubProject.props
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\obj\Debug\net8.0\scopedcss\bundle\BookClubProject.styles.css
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\obj\Debug\net8.0\scopedcss\projectbundle\BookClubProject.bundle.scp.css
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\obj\Debug\net8.0\BookClub.D73D27CF.Up2Date
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\obj\Debug\net8.0\BookClubProject.dll
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\obj\Debug\net8.0\refint\BookClubProject.dll
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\obj\Debug\net8.0\BookClubProject.pdb
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\obj\Debug\net8.0\BookClubProject.genruntimeconfig.cache
+C:\Users\Hichem Hammami\Desktop\Books Club Project\BookClub-main\BookClub-main\obj\Debug\net8.0\ref\BookClubProject.dll

@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>@ViewData["Title"] - BookStore</title>
+  <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+  <link rel="stylesheet" href="~/BookStore.styles.css" asp-append-version="true" />
+</head>
+<body>
+  <header>
+     <nav class="menu" id="nav">
+                <span class="nav-item active">
+                    <span class="icon">
+                        <i data-feather="home"></i>
+                    </span>
+                   <a href="/Dashboard">Book Club Project</a>
+                </span>
+                <span class="nav-item">
+                    <span class="icon">
+                        <i data-feather="search"></i>
+                    </span>
+                     <a href="/books">All Books</a>
+                </span>
+                <span class="nav-item">
+                    <span class="icon">
+                        <i data-feather="search"></i>
+                    </span>
+                     <a href="/book/add">Add A New Book</a>
+                </span>
+                <span class="nav-item">
+                    <span class="icon">
+                        <i data-feather="bell"></i>
+                    </span>
+                     <a href="/home/statistics">View Statistics</a>
+                </span>
+                <span class="nav-item">
+                    <span class="icon">
+                        <i data-feather="star"></i>
+                    </span>
+                    <a href="/user/favorites">Favorites</a>
+                </span>
+                <span class="nav-item">
+                    <span class="icon">
+                        <i data-feather="bell"></i>
+                    </span>
+                   <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Logout">LogOut</a>
+                </span>
+            </nav>
+  </header>
+  <div class="container">
+    <main role="main" class="pb-3">
+      @RenderBody()
+    </main>
+  </div>
+  <footer class="border-top footer text-muted">
+    <div class="container">
+      <p>&copy; 2024 (Solo Project - Book Club) - Hichem Hammami</p>
+    </div>
+  </footer>
+  <script src="~/lib/jquery/dist/jquery.min.js"></script>
+  <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="~/js/site.js" asp-append-version="true"></script>
+  @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

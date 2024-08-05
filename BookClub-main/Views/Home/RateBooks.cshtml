@@ -1,0 +1,45 @@
+@model List<BookClubProject.Models.Rating>
+
+@{
+    ViewData["Title"] = "Rate Our Books";
+}
+
+<h2>All Ratings and Suggestions</h2>
+
+@if (Model?.Any() ?? false)
+{
+    <div class="table-responsive">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th style="width: 30%;">Client</th>
+                    <th style="width: 50%;">Suggestion</th>
+                    <th style="width: 20%;">Rating</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var rating in Model)
+                {
+                    <tr>
+                        <td>@rating.FirstName @rating.LastName</td>
+                        <td>@rating.Suggestion</td>
+                        <td>
+                            @for (int i = 1; i <= rating.RatingService; i++)
+                            {
+                                <span class="icon-bleu">★</span>
+                            }
+                            @for (int j = 1; j <= 5 - rating.RatingService; j++)
+                            {
+                                <span class="star-black">&#9733;</span>
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+else
+{
+    <p>No ratings available.</p>
+}

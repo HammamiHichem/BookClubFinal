@@ -1,0 +1,46 @@
+@model BookClubProject.Models.RatingViewModel
+
+@{
+    ViewData["Title"] = "Rate Our Book";
+    Layout = "~/Views/Shared/_Layout.cshtml"; // Assurez-vous d'avoir un layout défini si nécessaire
+}
+
+<h2 class="text-center mb-4"><i class="fa-solid fa-star fa-spin" style="color: #ff4157;"></i> Rate Our Book <i class="fa-solid fa-star fa-spin" style="color: #ff4157;"></i> </h2>
+
+@if (ViewData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        @Html.Raw(ViewData["SuccessMessage"])
+    </div>
+}
+
+<form method="post" asp-action="RateBook" asp-controller="Books">
+    <div class="rating">
+        <label class="star">
+            <input type="radio" name="RatingService" value="1" />
+            <span class="icon">★</span>
+        </label>
+        <label class="star">
+            <input type="radio" name="RatingService" value="2" />
+            <span class="icon">★</span><span class="icon">★</span>
+        </label>
+        <!-- Ajoutez les autres options de notation ici -->
+    </div>
+
+    <div class="mb-3">
+        <label for="suggestion" class="form-label">Suggestion:</label>
+        <textarea id="suggestion" name="Suggestion" required class="form-control">@Model.Suggestion</textarea>
+        <span asp-validation-for="Suggestion" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label for="firstName" class="form-label">First Name:</label>
+        <input type="text" id="firstName" name="FirstName" required class="form-control" value="@Model.FirstName" />
+        <span asp-validation-for="FirstName" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label for="lastName" class="form-label">Last Name:</label>
+        <input type="text" id="lastName" name="LastName" required class="form-control" value="@Model.LastName" />
+        <span asp-validation-for="LastName" class="text-danger"></span>
+    </div>
+    <button type="submit" class="my-submit-button">Submit</button>
+</form>

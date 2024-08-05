@@ -1,0 +1,85 @@
+@{
+    ViewData["Title"] = "Register";
+    Layout = "_Layout"; // Spécifie le nom du layout à utiliser (par défaut, il cherche dans /Views/Shared/)
+}
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger" role="alert">
+            @TempData["ErrorMessage"]
+        </div>
+    }
+
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="card book-card">
+                    <div class="card-body">
+                        <h1 class="card-title book-title">@Model.Title</h1>
+                        <h3 class="card-subtitle mb-2 text-muted">Description:</h3>
+                        <p class="card-text book-description">@Model.Description</p>
+                        <p class="card-text book-info">Added by: @Model?.Creator?.FirstName @Model?.Creator?.LastName</p>
+                        <p class="card-text book-info">Added On: @Model?.CreatedAt.ToString("MMMM dd, yyyy") at @Model?.CreatedAt.ToString("hh:mm tt")</p>
+                        <p class="card-text book-info">Last Updated On: @Model?.UpdatedAt.ToString("MMMM dd, yyyy") at @Model?.UpdatedAt.ToString("hh:mm tt")</p>
+                    </div>
+                </div>
+                <div class="card mt-3">
+                    <div class="card-body">
+                        <form id="updateForm" method="post" action="/books/update/@Model?.BookId">
+                            <div class="form-group">
+                                <label for="newDescription">New Description:</label>
+                                <textarea class="form-control" id="newDescription" name="newDescription" required></textarea>
+                            </div>
+                            <div class="btn-container">
+                                <button class="btn btn-primary" id="updateButton" type="submit">Update</button>
+                                <button class="btn btn-danger" id="deleteButton" type="button">Delete</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h3 class="card-title">Users who liked this book:</h3>
+                        <ul class="list-group">
+                            @if (Model?.UserHowLiked != null)
+                            {
+                                if (Model.UserHowLiked.Count > 0)
+                                {
+                                    foreach (var association in Model.UserHowLiked)
+                                    {
+                                        <li class="list-group-item liked-users"> 💖 @association?.User?.FirstName @association?.User?.LastName</li>
+                                    }
+                                }
+                                else
+                                {
+                                    <li class="list-group-item">No users have liked this book yet.</li>
+                                }
+                            }
+                            else
+                            {
+                                <li class="list-group-item">Error: UserHowLiked data not available.</li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <form id="deleteForm" method="post" action="/books/delete/@Model?.BookId" style="display:none;"></form>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#deleteButton").click(function () {
+                if (confirm("Are you sure you want to delete this book?")) {
+                    $("#deleteForm").submit();
+                }
+            });
+        });
+    </script>
+
